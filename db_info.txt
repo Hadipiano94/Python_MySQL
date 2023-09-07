@@ -1,0 +1,11 @@
+host=localhost
+user=root
+password=Hadi@1994
+
+
+Attention! keep the following format at the first lines of the file 
+in order for it to work correctly:
+
+host=your_host
+user=your_user
+password=your_password
